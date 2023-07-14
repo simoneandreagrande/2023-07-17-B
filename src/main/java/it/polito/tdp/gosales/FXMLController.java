@@ -45,6 +45,10 @@ public class FXMLController {
     private TextArea txtResult;
 
     @FXML
+    void doCercaPercorso(ActionEvent event) {
+
+    }
+    @FXML
     void doCreaGrafo(ActionEvent event) {
 
     }
