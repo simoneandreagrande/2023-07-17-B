@@ -118,7 +118,7 @@
                         <Insets />
                      </GridPane.margin>
                   </ComboBox>
-                  <Button fx:id="btnCerca" mnemonicParsing="false" onAction="#doCreaGrafo" text="Cerca Percorso" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                  <Button fx:id="btnCerca" mnemonicParsing="false" onAction="#doCercaPercorso" text="Cerca Percorso" GridPane.columnIndex="2" GridPane.rowIndex="1">
                      <font>
                         <Font size="14.0" />
                      </font>
