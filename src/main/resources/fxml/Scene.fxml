@@ -15,7 +15,7 @@
 
 <BorderPane xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.polito.tdp.gosales.FXMLController">
    <top>
-      <Label text="Esame 17/07/2023" BorderPane.alignment="CENTER">
+      <Label text="Esame 17/07/2023 - Turno B" BorderPane.alignment="CENTER">
          <font>
             <Font name="System Bold" size="26.0" />
          </font>
@@ -70,14 +70,14 @@
                <children>
                   <HBox>
                      <children>
-                        <Label text="Vertici">
+                        <Label prefHeight="17.0" prefWidth="261.0" text="Vertici e Archi">
                            <HBox.margin>
-                              <Insets left="120.0" />
+                              <Insets left="100.0" />
                            </HBox.margin>
                         </Label>
-                        <Label text="Archi">
+                        <Label prefHeight="17.0" prefWidth="240.0" text="Archi di peso massimo">
                            <HBox.margin>
-                              <Insets left="220.0" />
+                              <Insets left="30.0" />
                            </HBox.margin>
                         </Label>
                      </children>
